@@ -1,0 +1,33 @@
+{
+  "produits": [
+    {
+      "id": "ca5e",
+      "designation": "Sauce arachide",
+      "prix": "2000",
+      "description": "ghghfhjd",
+      "image": "/images/img1.webp"
+    },
+    {
+      "id": "19af",
+      "designation": "galaxie S20",
+      "prix": "250000",
+      "description": "sdfdsgfdhb",
+      "image": "/images/img1.webp"
+    },
+    {
+        "id": "23u",
+        "designation": "iphone 14",
+        "prix": "250000",
+        "description": "sdfdsgfdhb",
+        "image": "/images/img1.webp"
+      },
+      {
+        "id": "24u",
+        "designation": "chemise manche longue",
+        "prix": "12000",
+        "description": "sdfdsgfdhb",
+        "image": "/images/img1.webp"
+      }
+  ],
+  "panier": []
+}
