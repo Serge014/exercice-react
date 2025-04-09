@@ -43,7 +43,7 @@ function Home({PanierLength, setPanierLength}: PanierLengthProps) {
                         <h4>{item?.designation}</h4>
                         <p>{item?.description}</p>
                         <p>{item?.prix}</p>
-                        <button onClick={() => AddPanier(item, PanierLength, setPanierLength)} className='btn btn-primary btn-sm'>Ajouter au panier</button>
+                        <button onClick={() => AddPanier(item, PanierLength!, setPanierLength!)} className='btn btn-primary btn-sm'>Ajouter au panier</button>
                     </div>
                   </div>
                 </div>

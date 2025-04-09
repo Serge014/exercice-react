@@ -14,6 +14,6 @@ export type PanierType = {
 }
 
 export type PanierLengthProps = {
-    PanierLength: number,
-    setPanierLength: React.Dispatch<React.SetStateAction<number>>
+    PanierLength?: number,
+    setPanierLength?: React.Dispatch<React.SetStateAction<number>>
 }
